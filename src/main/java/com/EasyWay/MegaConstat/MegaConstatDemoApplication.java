@@ -8,7 +8,7 @@ public class MegaConstatDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MegaConstatDemoApplication.class, args);
-		System.out.println("testCommit");
+		System.out.println("testCommitttt");
 	}
 
 }
